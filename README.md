@@ -18,3 +18,7 @@ A minimal example of a Telegram Bot for ChatGPT running on a Cloudflare Worker.
 12. In the middle panel append `/registerWebhook` to the url. For example: https://my-worker-123.username.workers.dev/registerWebhook
 13. Click "Send". In the right panel should appear `Ok`. If 401 Unauthorized appears, you may have used a wrong bot token.
 14. That's it, now you can send a ChatGPT prompt to your Telegram bot
+
+## Demo
+
+<img src=".github/demo.gif" width=320 alt="Demo screen recording of using this bot with Telegram for iOS">
